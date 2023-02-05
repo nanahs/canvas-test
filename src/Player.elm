@@ -11,6 +11,8 @@ type Player
 type alias Internals =
     { name : String
     , stats : List Stat
+
+    -- , equipment : List Equipment
     }
 
 
